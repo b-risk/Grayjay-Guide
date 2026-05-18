@@ -3,7 +3,7 @@
 
 # Grayjay Guide
 
-> This is a comprehensive guide to getting the best experience with Grayjay, which covers topics from client usage to YouTube blocks workarounds, and more to be planned.
+This is a comprehensive guide to getting the best experience with Grayjay, which covers topics from client usage to YouTube blocks workarounds, and more to be planned.
 
 ## Introduction to Grayjay
 
