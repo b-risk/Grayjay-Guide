@@ -12,7 +12,7 @@ At this point, you are done, but if you start experiencing blocks then move on t
 
 ## YouTube Blocks Workarounds
 
-The first thing I want to mention before sharing workarounds is that many times blocks can be due to YouTube changing their site and Grayjay needing to workaround the changes, so in that case you should wait to see if there is any [existing issues on the GitHub page](https://github.com/futo-org/grayjay-android/issues) or if there is an update pushed to fix it.
+The first thing I want to mention before sharing workarounds is that many times blocks can be due to YouTube changing their site and Grayjay needing to workaround these changes, so in that case you should wait to see if there are any [existing issues on the GitHub page](https://github.com/futo-org/grayjay-android/issues) or if there is an update pushed to fix it.
 Also, please go ahead and read the [Introduction to Grayjay](../README.md#introduction) if you haven't already.
 
 ### Method 1: Logging In
