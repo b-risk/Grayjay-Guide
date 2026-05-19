@@ -8,7 +8,7 @@ The YouTube plugin is installed by default on most versions of Grayjay, but the 
 
 For desktop users, you can install directly in the client in the sources tab.
 
-That's it! At this point, you are done, but if you start experiencing blocks then move on to the next section.
+At this point, you are done, but if you start experiencing blocks then move on to the next section.
 
 ## YouTube Blocks Workarounds
 
