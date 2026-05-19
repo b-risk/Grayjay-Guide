@@ -1,6 +1,3 @@
-> [!NOTE]
-> For the developers of Grayjay: some of the features I would like to see the most is making it more seamless for channels across platforms, and adding ways for plugins to combine their content allowing you to easily switch from watching content on one platform to another while combining data like comments. You all are doing important work and I hope this project doesn't ever go away for any reason.
-
 # Grayjay Guide
 
 This is a comprehensive guide to getting the best experience with Grayjay, which covers topics from client usage to YouTube blocks workarounds, and more to be planned.
