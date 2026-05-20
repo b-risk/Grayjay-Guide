@@ -21,7 +21,7 @@ The first workaround you should try is logging into the YouTube plugin, by defau
 If you are concerned about signing into your main account or if you don't have one, you can create one using [this guide](https://cascade.weblog.lol/how-to-create-and-use-a-google-account-anonymously-on-grapheneos).
 
 ### Method 2: Changing IP Address 
-If you decide not to log in or you're still experiencing issues with video playback then the next workaround you can try is changing your IP address, most of the time YouTube blocks are due to YouTube blocking your IP address, so if you change it then YouTube will give you a new identity allowing you to view content.
+If you decide not to log in or you're still experiencing issues with video playback then the next workaround you can try is changing your IP address, most of the time YouTube blocks are due to YouTube blocking your IP address due to suspicious activity or if you're under something like TOR or CGNAT, so if you change it then YouTube will give you a new identity allowing you to view content.
 There is a few different ways to change your IP address, the first is by using a VPN, the second is by using a different network like a mobile cellular data connection.
 
 ### Method 3: YouTube Content Mirrors
