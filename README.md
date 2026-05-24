@@ -11,7 +11,7 @@ Grayjay is an aggregated media client developed by FUTO for following and suppor
 
 ## What are Plugins?
 
-Grayjay uses a plugin system to allow you to follow creators on multiple platforms, these plugins do not implement advertisements and you are expected to support creators you find valuable directly, the majority of plugins also do not use official APIs and FUTO is not partnered with any company, therefore everything that Grayjay does is reverse engineering. Infact, back in 2024 FUTO was given a cease and desist by Google saying to stop using their API and stop all development imeddiately on Grayjay, they responded by simply stating they do not use their API and their developers have not agreed to their terms, and ever since Google has been removing videos off of YouTube even mentioning the project.
+Grayjay uses a plugin system to allow you to follow creators on multiple platforms, these plugins do not implement advertisements and you are expected to support creators you find valuable directly, the majority of plugins also do not use official APIs and FUTO is not partnered with any company, therefore everything that Grayjay does is reverse engineering. Infact, back in 2024 FUTO was given a cease and desist by Google saying to stop using their API and stop all development immediately on Grayjay, they responded by simply stating they do not use their API and their developers have not agreed to their terms, and ever since Google has been removing videos off of YouTube even mentioning the project.
 
 ## Not Relying on Just One Platform
 
