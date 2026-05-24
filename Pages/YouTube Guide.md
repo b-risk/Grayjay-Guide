@@ -40,5 +40,5 @@ Here is an updated list of current working YouTube content mirrors:
 
 4. [Nyane Archive](https://github.com/b-risk/Grayjay-Nyane) - made by Freeb
 
-5. [Internet Archive](https://github.com/b-risk/grayjay-source-internet-archive) - made by Freeb and also Wesley Swank
+5. [Internet Archive](https://github.com/b-risk/grayjay-source-internet-archive) - made by Freeb and is a fork of Wesley Swank's plugin
 
