@@ -1,0 +1,27 @@
+# Jekyll configuration for Grayjay Guide
+# GitHub Pages project site deployment
+
+title: "Grayjay Guide"
+description: "A comprehensive guide to getting the best experience with Grayjay"
+baseurl: "/Grayjay-Guide"
+url: "https://b-risk.github.io"
+
+markdown: kramdown
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+plugins: []
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules

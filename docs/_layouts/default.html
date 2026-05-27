@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include head.html %}
+</head>
+<body{% if page.body_class %} class="{{ page.body_class }}"{% endif %}>
+  {% include header.html %}
+  <div class="page-wrapper">
+    {% include sidebar.html %}
+    <main class="content">
+      {{ content }}
+      {% assign current_index = nil %}
+      {% for item in site.data.navigation.pages %}
+        {% if item.url == page.url %}
+          {% assign current_index = forloop.index0 %}
+        {% endif %}
+      {% endfor %}
+      {% if current_index != nil %}
+        {% assign next_index = current_index | plus: 1 %}
+        {% assign next_page = site.data.navigation.pages[next_index] %}
+        {% if next_page %}
+          <a href="{{ next_page.url | relative_url }}" class="next-page">
+            <span class="next-page__label">Next</span>
+            <span class="next-page__title">{{ next_page.title }} →</span>
+          </a>
+        {% endif %}
+      {% endif %}
+    </main>
+  </div>
+  {% include footer.html %}
+  <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+</body>
+</html>

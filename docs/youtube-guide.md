@@ -1,3 +1,9 @@
+---
+layout: default
+title: "YouTube Guide"
+permalink: /youtube-guide/
+---
+
 # YouTube Guide
 
 This page is a full tutorial for using YouTube on Grayjay with the best experience possible.
@@ -13,7 +19,7 @@ At this point, you are done, but if you start experiencing blocks then move on t
 ## YouTube Workarounds
 
 The first thing I want to mention before sharing workarounds is that many times blocks can be due to YouTube changing their site and Grayjay needing to workaround these changes, so in that case you should wait to see if there are any [existing issues on the GitHub page](https://github.com/futo-org/grayjay-android/issues) or if there is an update pushed to fix it.
-Also, please go ahead and read the [Introduction to Grayjay](../README.md#introduction) if you haven't already.
+Before continuing you should first read the [Introduction to Grayjay]({{ "/" | relative_url }}#introduction) and [Configuring Sources]({{ "/how-to-use/" | relative_url }}#configuring-sources) if you haven't already.
 
 ### Method 1: Logging in
 
@@ -40,5 +46,4 @@ Here is an updated list of current working YouTube content mirrors:
 
 4. [Nyane Archive](https://github.com/b-risk/Grayjay-Nyane) - made by Freeb
 
-5. [Internet Archive](https://github.com/b-risk/grayjay-source-internet-archive) - made by Freeb and also Wesley Swank
-
+5. [Internet Archive](https://github.com/b-risk/grayjay-source-internet-archive) - made by Freeb, Wesley Swank

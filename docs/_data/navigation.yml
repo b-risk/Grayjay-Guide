@@ -1,0 +1,7 @@
+pages:
+  - title: "Home"
+    url: "/"
+  - title: "How to Use Grayjay"
+    url: "/how-to-use/"
+  - title: "YouTube Guide"
+    url: "/youtube-guide/"

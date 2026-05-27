@@ -1,0 +1,17 @@
+<aside class="sidebar" id="sidebar">
+  <nav class="sidebar__nav">
+    <h2 class="sidebar__heading">Pages</h2>
+    <ul class="sidebar__list">
+      {% for item in site.data.navigation.pages %}
+        <li class="sidebar__item">
+          <a href="{{ item.url | relative_url }}" class="sidebar__link{% if page.url == item.url %} sidebar__link--active{% endif %}">
+            {{ item.title }}
+          </a>
+          {% if page.url == item.url %}
+            <ul class="sidebar__sublist" id="page-subsections"></ul>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </nav>
+</aside>
